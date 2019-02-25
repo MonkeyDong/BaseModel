@@ -84,26 +84,3 @@ validation_data=validation_generator,
 validation_steps= int(n * ratio) // batch_size)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
